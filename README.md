@@ -9,8 +9,15 @@
 
 ### MYSQL 설치관련  
 
-    https://opentutorials.org/course/3161/19532 
+    https://opentutorials.org/course/3161/19532
+    210824 MySQL대신 MariaDB Database가 설치된다. 
 
-210824 MySQL대신 MariaDB Database가 설치된다. 
+MySQL이 있는 폴더로 이동한다. >> 
+C:\Bitnami\wampstack-7.4.22-0\mariadb\bin
 
+이동 후에 mysql -uroot -p 입력 후 비밀번호 입력
+
+스키마는 서로 연관된 데이터들을 그룹화한다. 
+
+![image](https://user-images.githubusercontent.com/78002734/130620709-8f13aecc-0cfa-42d8-a3f4-d93a5566ee47.png)
 
