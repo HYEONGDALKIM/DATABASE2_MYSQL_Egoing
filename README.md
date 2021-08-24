@@ -29,3 +29,4 @@ C:\Bitnami\wampstack-7.4.22-0\mariadb\bin
 이동 후에 mariadb -uroot -p 입력 후 비밀번호 입력
 
 ### 스키마의 사용
+
