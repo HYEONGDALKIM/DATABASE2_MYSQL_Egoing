@@ -7,7 +7,6 @@
 - 스프레드시트와의 차이점은 SQL이라고하는 C-Lang을 통해서 컴퓨터를 제어할 수 있다.
 - 웹과 앱을 통해서 공유가 가능하고 분석가능하다
 
--설치관련  https://opentutorials.org/course/3161/19532
-20210824 MySQL대신 MariaDB Database가 설치된다. 
+-설치관련  https://opentutorials.org/course/3161/19532 210824 MySQL대신 MariaDB Database가 설치된다. 
 
 
