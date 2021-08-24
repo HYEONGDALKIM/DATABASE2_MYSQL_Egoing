@@ -5,15 +5,10 @@
 - input과 output의 How를 파악한다.  (CRUD! input - Create, Update, Delete   output - Read) 
 - file > spreadsheet > database (database의 장점 : 자동화 기능)
 
+스프레드시트와의 차이점은 SQL이라고하는 C-Lang을 통해서 컴퓨터를 제어할 수 있다.
+웹과 앱을 통해서 공유가 가능하고 분석가능하다
 
-
-
-
-
-
-
-
-
+bitnami.com/stacks/wamp 으로 오면 MYSQL을 손쉽게 설치가 가능하다
 
 
 
