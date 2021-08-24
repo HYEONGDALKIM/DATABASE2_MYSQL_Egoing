@@ -9,7 +9,7 @@
 
 -설치관련  
 
-  https://opentutorials.org/course/3161/19532 
+    https://opentutorials.org/course/3161/19532 
 
 210824 MySQL대신 MariaDB Database가 설치된다. 
 
