@@ -36,4 +36,16 @@ C:\Bitnami\wampstack-7.4.22-0\mariadb\bin
 USE []; - [] 안의 대상으로 수정이 시작된다.
 
 ### SQL과 테이블의 구조 
-Structured Query Language
+ SQL - Structured Query Language
+ 
+ table - 표, row - 행, column - 열
+ 
+ ### 테이블의 생성
+  
+ create table in mysql cheat sheet
+ 
+ column을 지정하려면 > id    
+ ![image](https://user-images.githubusercontent.com/78002734/130786352-84dd1f3d-39ac-4bfe-a789-85a383b01bad.png)
+
+ DATABASE DATA TYPE
+ https://www.techonthenet.com/mysql/datatypes.php
