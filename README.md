@@ -44,8 +44,8 @@ USE []; - [] 안의 대상으로 수정이 시작된다.
   
  create table in mysql cheat sheet
  
- column을 지정하려면 > id    
  ![image](https://user-images.githubusercontent.com/78002734/130786352-84dd1f3d-39ac-4bfe-a789-85a383b01bad.png)
 
- DATABASE DATA TYPE
- https://www.techonthenet.com/mysql/datatypes.php
+     DATABASE DATA TYPE 
+     https://www.techonthenet.com/mysql/datatypes.php
+
