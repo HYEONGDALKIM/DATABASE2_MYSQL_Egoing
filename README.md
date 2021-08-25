@@ -20,13 +20,18 @@
 
 스키마는 서로 연관된 데이터들을 그룹화한다. 
 
-![image](https://user-images.githubusercontent.com/78002734/130620709-8f13aecc-0cfa-42d8-a3f4-d93a5566ee47.png)
-
+![image](https://user-images.githubusercontent.com/78002734/130782992-cc180c30-9e50-4a1a-a71b-b96920cc9f95.png)
 ### MariaDB 서버접속! 
 MariaDB이 있는 폴더로 이동한다. >> 
 C:\Bitnami\wampstack-7.4.22-0\mariadb\bin
 
-이동 후에 mariadb -uroot -p 입력 후 비밀번호 입력
+이동 후에 mysql -uroot -p 입력 후 비밀번호 입력
 
 ### 스키마의 사용
+생성 : CREATE DATABASE ~ ; 
 
+삭제 : DROP DATABASE ;  
+ 
+    검색엔진 키워드 사용법  how to show database list in mysql
+    
+ 
