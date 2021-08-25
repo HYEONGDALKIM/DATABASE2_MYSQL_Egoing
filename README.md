@@ -12,8 +12,6 @@
     https://opentutorials.org/course/3161/19532
     210824 MySQL대신 MariaDB Database가 설치된다. 
 
-
-
 이동 후에 mysql -uroot -p 입력 후 비밀번호 입력
 
 ### MariaDB의구조
@@ -21,6 +19,7 @@
 스키마는 서로 연관된 데이터들을 그룹화한다. 
 
 ![image](https://user-images.githubusercontent.com/78002734/130782992-cc180c30-9e50-4a1a-a71b-b96920cc9f95.png)
+
 ### MariaDB 서버접속! 
 MariaDB이 있는 폴더로 이동한다. >> 
 C:\Bitnami\wampstack-7.4.22-0\mariadb\bin
@@ -34,4 +33,7 @@ C:\Bitnami\wampstack-7.4.22-0\mariadb\bin
  
     검색엔진 키워드 사용법  how to show database list in mysql
     
- 
+USE []; - [] 안의 대상으로 수정이 시작된다.
+
+### SQL과 테이블의 구조 
+Structured Query Language
