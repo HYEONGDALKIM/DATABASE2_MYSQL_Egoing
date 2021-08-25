@@ -72,4 +72,6 @@ USE []; - [] 안의 대상으로 수정이 시작된다.
     SET assignment_list
     [WHERE where_condition]
  
- 
+  ### DELETE
+  
+  # where 을 빠뜨리면 큰일난다 조심 
