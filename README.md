@@ -48,4 +48,28 @@ USE []; - [] 안의 대상으로 수정이 시작된다.
 
      DATABASE DATA TYPE 
      https://www.techonthenet.com/mysql/datatypes.php
-
+     
+ ERROR가 뜨면 검색엔진에 검색 stackoverflow<< 많이 쓰는 사이트 
+ 
+ ### INSERT
+ 
+ 예를들어 topic이라는 테이블이 있으면 INSERT를 하기전에 DESC topic으로 테이블의 구조를 한번 확인 한 후에 진행하는 것이 좋다.
+ 
+ * SQL 관련함수 NOW() - 현재시간을 표시해준다
+ 
+ 테이블안에 모든 내용을 보는것 ! : SELECT * FROM topic 
+ 
+ 
+ ### SELECT 
+ 
+ DESC, ASEC, WHERE ORDER BY , GROUP BY HAVING, LIMIT등 다양한 옵션으로 검색에 제약을 줄수 있다. 
+ 
+ SELECT문을 잘 사용하여야 SQL을 잘한다고 말할 수 있다.
+ 
+  ### UPDATE
+  
+    UPDATE [LOW_PRIORITY] [IGNORE] table_references
+    SET assignment_list
+    [WHERE where_condition]
+ 
+ 
